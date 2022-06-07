@@ -1,0 +1,6 @@
+restapi\dummy\utils\TestUtils.class
+restapi\dummy\constants\Path.class
+restapi\dummy\model\Pojo.class
+restapi\dummy\utils\PropertyReader.class
+restapi\dummy\constants\EndPoint.class
+restapi\dummy\info\DummyRestApiSteps.class
